@@ -1,16 +1,35 @@
-### Hi there 👋
+## Инженер по тестированию ПО
 
-<!--
-**EGDobry/EGDobry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Мои инструменты
+![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
+![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
+![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Тестовая документация
+- [Положительный Чек-лист Образец Outstream](https://docs.google.com/spreadsheets/d/1rX41UO-foOP9T2tEEViwpqESkSqxOrDyLEqt3vtgg6o/edit#gid=1046219479)
+- [Негативный Чек-лист Образец Outstream](https://docs.google.com/spreadsheets/d/1TCmaxzKzvE8qweE_P0vq-9MkXgbkt37HvMao_ZyGA0M/edit?usp=sharing)
+- [Чек-лист Образец Signaturely сервис для электронной подписи документов](https://docs.google.com/spreadsheets/d/11KoKCivUHuW_Ov6pBGPuxe0AX2hyQpmofHl6wicA3PE/edit?usp=sharing)
+- [Тест-кейс Образец Signaturely сервис для электронной подписи документов] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Резюме
+[![HH](https://img.shields.io/badge/-hh-d64030?style=for-the-badge&logo=hh&logoColor=11032019)](https://ekaterinburg.hh.ru/resume/482222acff0024a54c0039ed1f736563726574?hhtmFrom=resume_list)
+
+## Предпочитаемый способ связи
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Edobry)
