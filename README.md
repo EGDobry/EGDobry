@@ -1,10 +1,11 @@
 ## Обо мне
 
 Переключился на работу в IT-сфере, после 13 лет работы в продажах на FMCG-рынке.
-Начал работать тестировщиком в мае 2022 года.
-Закончил профессиональные курсы переподготовки Инженер по тестированию и получил диплом школы Sky.Pro в феврале 2023.
+Начал работать тестировщиком в мае 2022 года в финтех компании Outstream.
+Тестировал web приложение - платежная система.
+В феврале 2023 закончил профессиональные курсы переподготовки Инженер по тестированию, получил диплом школы Sky.Pro
 
-Почему именно IT:
+Почему выбрал IT:
 - Задачи;
 - Современный подход к рабочим процессам, ﻿отзывающийся мне;
 - Постоянное развитие и обучение;
@@ -16,8 +17,11 @@
 ### Тестовая документация
 - [Положительный Чек-лист Образец Outstream](https://docs.google.com/spreadsheets/d/1rX41UO-foOP9T2tEEViwpqESkSqxOrDyLEqt3vtgg6o/edit#gid=1046219479)
 - [Негативный Чек-лист Образец Outstream](https://docs.google.com/spreadsheets/d/1TCmaxzKzvE8qweE_P0vq-9MkXgbkt37HvMao_ZyGA0M/edit?usp=sharing)
+- [Баг-репорт Youtrack pdf Образец Outstream](https://drive.google.com/file/d/1ORNEphtVRUMgaIgSZu6igdUAezcRwJGs/view?usp=sharing)
 - [Чек-лист Образец Signaturely сервис для электронной подписи документов](https://docs.google.com/spreadsheets/d/11KoKCivUHuW_Ov6pBGPuxe0AX2hyQpmofHl6wicA3PE/edit?usp=sharing)
-- [Тест-кейс Образец Signaturely сервис для электронной подписи документов] 
+- [Тест-кейс Образец Signaturely сервис для электронной подписи документов](https://docs.google.com/spreadsheets/d/11KoKCivUHuW_Ov6pBGPuxe0AX2hyQpmofHl6wicA3PE/edit?usp=sharing)
+- [Баг-репорт Jira doc Образец Signaturely сервис для электронной подписи документов](https://docs.google.com/document/d/1UelMsk5oxxyxXRADiq5cbOI6O3g3QMaW/edit?usp=sharing&ouid=103998364244724700195&rtpof=true&sd=true)
+- 
 
 
 
