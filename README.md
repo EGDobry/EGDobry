@@ -21,7 +21,7 @@
 - [Чек-лист Образец Signaturely сервис для электронной подписи документов](https://docs.google.com/spreadsheets/d/11KoKCivUHuW_Ov6pBGPuxe0AX2hyQpmofHl6wicA3PE/edit?usp=sharing)
 - [Тест-кейс Образец Signaturely сервис для электронной подписи документов](https://docs.google.com/spreadsheets/d/11KoKCivUHuW_Ov6pBGPuxe0AX2hyQpmofHl6wicA3PE/edit?usp=sharing)
 - [Баг-репорт Jira doc Образец Signaturely сервис для электронной подписи документов](https://docs.google.com/document/d/1UelMsk5oxxyxXRADiq5cbOI6O3g3QMaW/edit?usp=sharing&ouid=103998364244724700195&rtpof=true&sd=true)
-- 
+
 
 
 
@@ -32,16 +32,7 @@
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
-
-
-
-
-
-
-
-
-
-
+![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 
 
 
