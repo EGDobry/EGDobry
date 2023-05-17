@@ -40,6 +40,8 @@
 
 ## Резюме
 - [Резюме](https://docs.google.com/document/d/1p7jjMBUJgmnBiBCujuuoMjSYgxFg7z335rURq7Akr-k/edit?usp=sharing)
+
+
 [![HH](https://img.shields.io/badge/-hh-d64030?style=for-the-badge&logo=hh&logoColor=11032019)](https://ekaterinburg.hh.ru/resume/482222acff0024a54c0039ed1f736563726574?hhtmFrom=resume_list)
 
 ## Предпочитаемый способ связи
