@@ -53,7 +53,7 @@
 
 ## Резюме
 
-[![HH](https://img.shields.io/badge/-hh-d64030?style=for-the-badge&logo=hh&logoColor=11032019)](https://ekaterinburg.hh.ru/resume/482222acff0024a54c0039ed1f736563726574?hhtmFrom=resume_list)
+[![Резюме](https://docs.google.com/document/d/1F9sdPf5GK8snPpaATKBUV_Mo8L6dlm8ooSid7WnEJZw/edit)
 
 ## Предпочитаемый способ связи
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Edobry)
