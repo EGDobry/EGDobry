@@ -53,7 +53,7 @@
 
 ## Резюме
 
-![Резюме](https://docs.google.com/document/d/1F9sdPf5GK8snPpaATKBUV_Mo8L6dlm8ooSid7WnEJZw/edit)
+- [Резюме](https://docs.google.com/document/d/1F9sdPf5GK8snPpaATKBUV_Mo8L6dlm8ooSid7WnEJZw/edit)
 
 ## Предпочитаемый способ связи
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Edobry)
