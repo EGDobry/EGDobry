@@ -44,7 +44,7 @@
 
 ## Резюме
 
-- [CV](https://docs.google.com/document/d/1F9sdPf5GK8snPpaATKBUV_Mo8L6dlm8ooSid7WnEJZw/edit)
+- [CV](https://docs.google.com/document/d/1XoWcCU5ffaLJD7rmJeAKx8UlOPQwmRlUzMEwFH9A6bc/edit)
 
 ## Предпочитаемый способ связи
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Edobry)
